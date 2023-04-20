@@ -1,0 +1,50 @@
+html {background-color: #f0efeb}
+
+.index {
+    font-family: 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: white;
+}
+
+ul {list-style: none;}
+
+h1 {
+    font-size: 50px;
+    background-color: #e8d1c5;
+    color: white;
+}
+
+.home {
+    font-size: 30px;
+    background-color: #eddcd2;
+    color: burlywood;
+}
+
+
+.recipe {
+    font-family: 'Trebuchet MS', sans-serif;
+    color: rgb(0, 0, 0);
+    background-color:#eddcd3;
+    font-size: 18px;
+}
+
+#title{
+    text-align: center;
+}
+
+img {
+    height:auto;
+    width: 500px;
+    margin-left: 400px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+
+
