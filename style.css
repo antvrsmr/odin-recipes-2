@@ -32,10 +32,10 @@ h1 {
     text-align: center;
 }
 
-img {
+.img {
     height:auto;
     width: 500px;
-    margin-left: 400px;
+    text-align: center;
 }
 
 h2 {
