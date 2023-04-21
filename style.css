@@ -24,18 +24,25 @@ h1 {
 .recipe {
     font-family: 'Trebuchet MS', sans-serif;
     color: rgb(0, 0, 0);
-    background-color:#eddcd3;
     font-size: 18px;
 }
 
-#title{
+.body2 {
+    background-color: #eddcd3;
+}
+
+#title,
+.pics{
     text-align: center;
 }
 
-.img {
-    height:auto;
+.pics {
+    background-color: #eddcd3;
+}
+
+img {
+    height: auto;
     width: 500px;
-    text-align: center;
 }
 
 h2 {
